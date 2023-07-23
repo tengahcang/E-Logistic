@@ -38,7 +38,7 @@
             </a>
         </div>
         <div class="col-md-4 mb-5">
-            {{-- <a href="{{route('pinjam.create')}}"> --}}
+            <a href="{{route('pinjam.create')}}">
                 <button class="btn btn-primary">
                     <h1><i class="bi bi-bag-plus"></i> Pinjam barang</h1>
                     
@@ -55,7 +55,7 @@
             </a>
         </div>
         <div class="col-md-4 mb-5">
-            {{-- <a href="{{route('laporan.create')}}"> --}}
+            <a href="{{route('laporan.create')}}">
                 <button class="btn btn-danger">
                     <h1><i class="bi bi-exclamation-circle"></i> Lapor kerusakan Barang</h1>
                     
